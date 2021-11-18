@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c3ebf03-5dc1-4ab5-8d89-bb93e85314a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/test/NBIOTHandlerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/Adaptor-Gateway.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/log/2020-12/app-12-23-2020-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/log/2020-12/app-12-23-2020-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/log/2020-12/app-12-23-2020-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/log/2020-12/app-12-23-2020-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/log/2020-12/app-12-23-2020-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/log/2020-12/app-12-23-2020-3.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/log/2020-12/app-12-23-2020-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/log/2020-12/app-12-23-2020-4.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/log/2020-12/app-12-23-2020-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/log/2020-12/app-12-23-2020-5.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/log/2020-12/app-12-23-2020-6.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/log/2020-12/app-12-23-2020-6.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/log/2020-12/app-12-23-2020-7.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/log/2020-12/app-12-23-2020-7.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/GateWayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/GateWayApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/config/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/config/CorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/config/MavlinkConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/config/MavlinkConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/config/MqttConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/config/MqttConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/config/NBIOTConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/config/NBIOTConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/config/SOSConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/config/SOSConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/config/TCPConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/config/TCPConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/config/VehicleConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/config/VehicleConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/config/WebSocketConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/config/WebSocketConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/config/ZigbeeConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/config/ZigbeeConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/controller/CityRouter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/controller/CityRouter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/controller/CityWebFluxController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/controller/CityWebFluxController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/controller/LoginRouter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/controller/LoginRouter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/controller/NBIOTRouter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/controller/NBIOTRouter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/controller/ObsPropRouter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/controller/ObsPropRouter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/controller/ObservationRouter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/controller/ObservationRouter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/controller/SensorRouter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/controller/SensorRouter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/controller/UavGpsRouter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/controller/UavGpsRouter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/controller/ZigBeeRouter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/controller/ZigBeeRouter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/dao/CityRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/dao/CityRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/dao/NBIOTRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/dao/NBIOTRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/dao/ObservationMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/dao/ObservationMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/dao/ObservationMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/dao/ObservationMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/dao/ObservationPropertyMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/dao/ObservationPropertyMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/dao/ObservationPropertyMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/dao/ObservationPropertyMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/dao/SensorMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/dao/SensorMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/dao/SensorMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/dao/SensorMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/dao/SensorObsPropMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/dao/SensorObsPropMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/dao/SensorObsPropMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/dao/SensorObsPropMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/dao/UavGpsMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/dao/UavGpsMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/dao/UavGpsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/dao/UavGpsMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/dto/ObservationDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/dto/ObservationDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/dto/SensorDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/dto/SensorDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/model/BleData.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/model/BleData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/model/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/model/City.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/model/NBIOT.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/model/NBIOT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/model/Observation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/model/Observation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/model/ObservationProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/model/ObservationProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/model/Sensor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/model/Sensor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/model/SensorObsProp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/model/SensorObsProp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/model/StructObservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/model/StructObservation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/model/UavBatteryStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/model/UavBatteryStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/model/UavGps.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/model/UavGps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/model/UavVfrHud.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/model/UavVfrHud.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/model/ZigBeeData.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/model/ZigBeeData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/service/BleHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/service/BleHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/service/CityHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/service/CityHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/service/LoginHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/service/LoginHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/service/NBIOTHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/service/NBIOTHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/service/ObsPropHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/service/ObsPropHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/service/ObservationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/service/ObservationHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/service/RFIDHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/service/RFIDHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/service/RealTimeHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/service/RealTimeHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/service/RobotHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/service/RobotHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/service/SensorHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/service/SensorHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/service/UavGpsHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/service/UavGpsHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/service/UavHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/service/UavHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/service/ZigbeeHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/service/ZigbeeHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/test/ApolloClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/test/ApolloClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/test/ApolloServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/test/ApolloServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/test/HttpConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/test/HttpConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/test/RFIDTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/test/RFIDTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/util/CRCUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/util/CRCUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/util/ConvertUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/util/ConvertUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/util/FileUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/util/FileUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/util/Generator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/util/Generator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/util/SOSWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/util/SOSWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/util/WebSocketSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/java/com/swe/gateway/util/WebSocketSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/resources/example/RegisterSensor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/resources/example/RegisterSensor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/resources/template/controller.java.vm" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/resources/template/controller.java.vm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/resources/template/entity.java.vm" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/resources/template/entity.java.vm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/resources/template/mapper.java.vm" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/resources/template/mapper.java.vm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/resources/template/mapper.xml.vm" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/resources/template/mapper.xml.vm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/resources/template/service.java.vm" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/resources/template/service.java.vm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/resources/template/serviceImpl.java.vm" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/resources/template/serviceImpl.java.vm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Gateway/src/main/resources/templateFile/InsertObservation_Instant.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Gateway/src/main/resources/templateFile/InsertObservation_Instant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/.babelrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/.eslintignore" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/.eslintignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/.eslintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/.postcssrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/.postcssrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/build/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/build/build.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/build/check-versions.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/build/check-versions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/build/dev-client.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/build/dev-client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/build/dev-server.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/build/dev-server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/build/mock-server.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/build/mock-server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/build/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/build/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/build/vue-loader.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/build/vue-loader.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/build/webpack.base.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/build/webpack.base.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/build/webpack.dev.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/build/webpack.dev.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/build/webpack.prod.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/build/webpack.prod.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/config/dev.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/config/dev.env.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/config/prod.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/config/prod.env.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/mock.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/mock.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/common/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/common/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/common/axios.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/common/axios.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/common/mqttClient.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/common/mqttClient.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/common/tools.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/common/tools.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/common/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/common/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/components/404.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/components/404.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/components/amap/basemap.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/components/amap/basemap.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/components/cesium/cesium.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/components/cesium/cesium.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/components/charts/bar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/components/charts/bar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/components/charts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/components/charts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/components/charts/line.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/components/charts/line.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/components/charts/pie.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/components/charts/pie.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/components/charts/theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/components/charts/theme.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/components/excel.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/components/excel.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/components/panel.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/components/panel.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/components/selectTree.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/components/selectTree.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/components/sideMenu.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/components/sideMenu.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/components/subMenu.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/components/subMenu.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/components/table/table.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/components/table/table.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/components/treeter.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/components/treeter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/components/vSelect.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/components/vSelect.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/components/video/video.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/components/video/video.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/filters/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/filters/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/frame.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/frame.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/mock/global.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/mock/global.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/mock/mock.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/mock/mock.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/mock/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/mock/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/pages/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/pages/layout/footer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/pages/layout/footer.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/pages/layout/header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/pages/layout/header.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/pages/layout/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/pages/layout/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/pages/login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/pages/login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/pages/platform/guangchangxiangji.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/pages/platform/guangchangxiangji.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/pages/platform/leadorRobot.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/pages/platform/leadorRobot.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/pages/platform/phone.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/pages/platform/phone.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/pages/platform/rfidNetwork.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/pages/platform/rfidNetwork.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/pages/platform/uav.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/pages/platform/uav.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/pages/platform/wsn.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/pages/platform/wsn.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/pages/register.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/pages/register.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/pages/resetPwd.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/pages/resetPwd.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/pages/sensors/haikang.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/pages/sensors/haikang.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/pages/sensors/mavlink.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/pages/sensors/mavlink.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/pages/sensors/modbus.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/pages/sensors/modbus.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/pages/sensors/mqtt.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/pages/sensors/mqtt.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/pages/sensors/nbiot.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/pages/sensors/nbiot.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/pages/sensors/rfid.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/pages/sensors/rfid.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/pages/sensors/rtsp.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/pages/sensors/rtsp.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/pages/sensors/sensorAdd.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/pages/sensors/sensorAdd.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/pages/sensors/zigbee.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/pages/sensors/zigbee.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/pages/sys/menu.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/pages/sys/menu.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/pages/sys/resource.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/pages/sys/resource.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/pages/sys/role.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/pages/sys/role.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/pages/sys/user.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/pages/sys/user.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/pages/sys/userAdd.vue" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/pages/sys/userAdd.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/router/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/router/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/services/default.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/services/default.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/services/gcxjConfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/services/gcxjConfig.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/services/protocol.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/services/protocol.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/services/sensor.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/services/sensor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/services/sys.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/services/sys.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/store/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/store/actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/src/store/mutation-types.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/src/store/mutation-types.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Assets/Textures/NaturalEarthII/tilemapresource.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Assets/Textures/NaturalEarthII/tilemapresource.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Cesium.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Cesium.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Cesium.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Cesium.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/ThirdParty/Workers/draco_decoder.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/ThirdParty/Workers/draco_decoder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/ThirdParty/Workers/draco_wasm_wrapper.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/ThirdParty/Workers/draco_wasm_wrapper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Widgets/Images/NavigationHelp/Mouse.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Widgets/Images/NavigationHelp/Mouse.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Widgets/Images/NavigationHelp/MouseLeft.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Widgets/Images/NavigationHelp/MouseLeft.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Widgets/Images/NavigationHelp/MouseMiddle.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Widgets/Images/NavigationHelp/MouseMiddle.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Widgets/Images/NavigationHelp/MouseRight.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Widgets/Images/NavigationHelp/MouseRight.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Widgets/Images/NavigationHelp/Touch.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Widgets/Images/NavigationHelp/Touch.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Widgets/Images/NavigationHelp/TouchDrag.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Widgets/Images/NavigationHelp/TouchDrag.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Widgets/Images/NavigationHelp/TouchRotate.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Widgets/Images/NavigationHelp/TouchRotate.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Widgets/Images/NavigationHelp/TouchTilt.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Widgets/Images/NavigationHelp/TouchTilt.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Widgets/Images/NavigationHelp/TouchZoom.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Widgets/Images/NavigationHelp/TouchZoom.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/ArcType-dc1c5aee.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/ArcType-dc1c5aee.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/AttributeCompression-9fc99391.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/AttributeCompression-9fc99391.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/BoundingRectangle-6504da58.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/BoundingRectangle-6504da58.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/BoxGeometry-e09f188f.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/BoxGeometry-e09f188f.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/Cartesian2-bddc1162.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/Cartesian2-bddc1162.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/Check-6c0211bc.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/Check-6c0211bc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/Color-06e3e82d.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/Color-06e3e82d.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/ComponentDatatype-6d99a1ee.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/ComponentDatatype-6d99a1ee.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/CoplanarPolygonGeometryLibrary-d7c9456b.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/CoplanarPolygonGeometryLibrary-d7c9456b.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/CorridorGeometryLibrary-c5b78678.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/CorridorGeometryLibrary-c5b78678.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/CylinderGeometry-6513f40e.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/CylinderGeometry-6513f40e.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/CylinderGeometryLibrary-b0214ab1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/CylinderGeometryLibrary-b0214ab1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/EllipseGeometry-af5e6673.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/EllipseGeometry-af5e6673.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/EllipseGeometryLibrary-cc7c5f49.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/EllipseGeometryLibrary-cc7c5f49.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/EllipseOutlineGeometry-498db055.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/EllipseOutlineGeometry-498db055.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/EllipsoidGeodesic-30fae80b.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/EllipsoidGeodesic-30fae80b.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/EllipsoidGeometry-46c9ce62.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/EllipsoidGeometry-46c9ce62.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/EllipsoidOutlineGeometry-4d2afb13.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/EllipsoidOutlineGeometry-4d2afb13.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/EllipsoidRhumbLine-c704bf4c.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/EllipsoidRhumbLine-c704bf4c.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/EllipsoidTangentPlane-9a2d3381.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/EllipsoidTangentPlane-9a2d3381.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/EncodedCartesian3-e9c71cf0.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/EncodedCartesian3-e9c71cf0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/FrustumGeometry-c6366133.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/FrustumGeometry-c6366133.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/GeometryAttribute-49698167.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/GeometryAttribute-49698167.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/GeometryAttributes-4fcfcf40.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/GeometryAttributes-4fcfcf40.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/GeometryInstance-e56e7f4f.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/GeometryInstance-e56e7f4f.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/GeometryOffsetAttribute-7350d9af.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/GeometryOffsetAttribute-7350d9af.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/GeometryPipeline-ee01eec4.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/GeometryPipeline-ee01eec4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/IndexDatatype-53503fee.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/IndexDatatype-53503fee.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/IntersectionTests-60a97ecf.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/IntersectionTests-60a97ecf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/Math-fc8cecf5.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/Math-fc8cecf5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/OrientedBoundingBox-9c6c4bfe.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/OrientedBoundingBox-9c6c4bfe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/Plane-c946480f.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/Plane-c946480f.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/PolygonGeometryLibrary-818ff8da.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/PolygonGeometryLibrary-818ff8da.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/PolygonPipeline-c425d4a8.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/PolygonPipeline-c425d4a8.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/PolylinePipeline-0cb75e10.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/PolylinePipeline-0cb75e10.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/PolylineVolumeGeometryLibrary-412b539f.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/PolylineVolumeGeometryLibrary-412b539f.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/PrimitivePipeline-3064ff54.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/PrimitivePipeline-3064ff54.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/RectangleGeometryLibrary-98225f15.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/RectangleGeometryLibrary-98225f15.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/RuntimeError-2109023a.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/RuntimeError-2109023a.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/TerrainEncoding-a1538d1e.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/TerrainEncoding-a1538d1e.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/Transforms-43808565.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/Transforms-43808565.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/VertexFormat-7572c785.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/VertexFormat-7572c785.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/WallGeometryLibrary-1b5fb77d.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/WallGeometryLibrary-1b5fb77d.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/WebGLConstants-76bb35d1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/WebGLConstants-76bb35d1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/WebMercatorProjection-df58d479.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/WebMercatorProjection-df58d479.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/arrayRemoveDuplicates-ebc732b0.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/arrayRemoveDuplicates-ebc732b0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/combineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/combineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createBoxGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createBoxGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createBoxOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createBoxOutlineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createCircleGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createCircleGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createCircleOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createCircleOutlineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createCoplanarPolygonGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createCoplanarPolygonGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createCoplanarPolygonOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createCoplanarPolygonOutlineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createCorridorGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createCorridorGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createCorridorOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createCorridorOutlineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createCylinderGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createCylinderGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createCylinderOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createCylinderOutlineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createEllipseGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createEllipseGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createEllipseOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createEllipseOutlineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createEllipsoidGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createEllipsoidGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createEllipsoidOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createEllipsoidOutlineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createFrustumGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createFrustumGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createFrustumOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createFrustumOutlineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createGroundPolylineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createGroundPolylineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createPlaneGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createPlaneGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createPlaneOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createPlaneOutlineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createPolygonGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createPolygonGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createPolygonOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createPolygonOutlineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createPolylineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createPolylineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createPolylineVolumeGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createPolylineVolumeGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createPolylineVolumeOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createPolylineVolumeOutlineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createRectangleGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createRectangleGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createRectangleOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createRectangleOutlineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createSimplePolylineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createSimplePolylineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createSphereGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createSphereGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createSphereOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createSphereOutlineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createTaskProcessorWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createTaskProcessorWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createVectorTileGeometries.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createVectorTileGeometries.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createVectorTilePoints.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createVectorTilePoints.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createVectorTilePolygons.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createVectorTilePolygons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createVectorTilePolylines.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createVectorTilePolylines.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createVerticesFromGoogleEarthEnterpriseBuffer.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createVerticesFromGoogleEarthEnterpriseBuffer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createVerticesFromHeightmap.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createVerticesFromHeightmap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createVerticesFromQuantizedTerrainMesh.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createVerticesFromQuantizedTerrainMesh.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createWallGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createWallGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createWallOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/createWallOutlineGeometry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/decodeDraco.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/decodeDraco.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/decodeGoogleEarthEnterprisePacket.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/decodeGoogleEarthEnterprisePacket.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/transcodeCRNToDXT.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/transcodeCRNToDXT.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/upsampleQuantizedTerrainMesh.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/upsampleQuantizedTerrainMesh.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/Workers/when-54c2dc71.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/Workers/when-54c2dc71.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/data/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/data/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/js/cow-v1.1.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/js/cow-v1.1.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/js/jquery-1.12.4.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/js/jquery-1.12.4.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/js/jsWebControl-1.0.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/js/jsWebControl-1.0.0.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adaptor-Web/static/js/touch.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adaptor-Web/static/js/touch.min.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Adaptor-Gateway" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\IntelliJ IDEA 2020.1.1\plugins\maven\lib\maven3\bin" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="D:\IntelliJ IDEA 2020.1.1\plugins\maven\lib\maven3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1vLNWz5MfbjNSGNdA6TX5sm1uLV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sensor" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="ts.external.directory.path" value="D:\IntelliJ IDEA 2020.1.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.swe.gateway.service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GateWayApplication">
+    <configuration name="ApolloClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.swe.gateway.test.ApolloClient" />
+      <module name="Adaptor-Gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.swe.gateway.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RFIDTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.swe.gateway.test.RFIDTest" />
+      <module name="Adaptor-Gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.swe.gateway.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZigBeeTest$Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.swe.gateway.test.ZigBeeTest$Client" />
+      <module name="Adaptor-Gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.swe.gateway.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZigBeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.swe.gateway.test.ZigBeeTest" />
+      <module name="Adaptor-Gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.swe.gateway.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GateWayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Adaptor-Gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.swe.gateway.GateWayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RFIDTest" />
+        <item itemvalue="Application.ZigBeeTest" />
+        <item itemvalue="Application.ZigBeeTest$Client" />
+        <item itemvalue="Application.ApolloClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c3ebf03-5dc1-4ab5-8d89-bb93e85314a2" name="Default Changelist" comment="" />
+      <created>1626337444837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626337444837</updated>
+      <workItem from="1626337446109" duration="1307000" />
+      <workItem from="1626348529143" duration="48000" />
+      <workItem from="1626348671361" duration="4378000" />
+      <workItem from="1626398270224" duration="5419000" />
+      <workItem from="1626679827829" duration="13557000" />
+      <workItem from="1626742529509" duration="6942000" />
+      <workItem from="1626865855575" duration="674000" />
+      <workItem from="1626916222916" duration="965000" />
+      <workItem from="1626937891101" duration="11858000" />
+      <workItem from="1626955511186" duration="2331000" />
+      <workItem from="1627001748964" duration="14688000" />
+      <workItem from="1627221443370" duration="1188000" />
+      <workItem from="1627615161859" duration="4716000" />
+      <workItem from="1628667916699" duration="424000" />
+      <workItem from="1630037154849" duration="2665000" />
+      <workItem from="1630312500593" duration="227000" />
+      <workItem from="1630637179307" duration="1304000" />
+      <workItem from="1630915354077" duration="1134000" />
+      <workItem from="1631096738258" duration="1308000" />
+      <workItem from="1631689368260" duration="843000" />
+      <workItem from="1631690736692" duration="3861000" />
+      <workItem from="1631781677621" duration="148000" />
+      <workItem from="1631782734568" duration="834000" />
+      <workItem from="1631846242523" duration="1757000" />
+      <workItem from="1631878179509" duration="625000" />
+      <workItem from="1631950222625" duration="1810000" />
+      <workItem from="1632274886451" duration="3232000" />
+      <workItem from="1632360567887" duration="2980000" />
+      <workItem from="1632795026060" duration="6669000" />
+      <workItem from="1634092478217" duration="1895000" />
+      <workItem from="1634547820102" duration="806000" />
+      <workItem from="1636943133998" duration="99000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1631781735464">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1631781735464" />
+    <state x="461" y="212" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1631097950098">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="212" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1631097950098" />
+    <state x="544" y="305" width="448" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1632796096356">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="544" y="305" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824/1920.9.1920.1040@0.0.1536.824" timestamp="1632796096356" />
+    <state x="544" y="305" width="448" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1631097755621" />
+    <state x="723" y="6" key="FileChooserDialogImpl" timestamp="1636943230936">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="723" y="6" key="FileChooserDialogImpl/0.0.1536.816/1920.9.1920.1032@0.0.1536.816" timestamp="1636943230936" />
+    <state x="723" y="6" key="FileChooserDialogImpl/0.0.1536.824/1920.9.1920.1040@0.0.1536.824" timestamp="1632798836413" />
+    <state x="1097" y="0" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1630312521484" />
+    <state width="1275" height="268" key="GridCell.Tab.0.bottom" timestamp="1631877933885">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1275" height="268" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.9.1920.1040@0.0.1536.824" timestamp="1631846798612" />
+    <state width="1275" height="268" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1631877933885" />
+    <state width="1275" height="268" key="GridCell.Tab.0.center" timestamp="1631877933885">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1275" height="268" key="GridCell.Tab.0.center/0.0.1536.824/1920.9.1920.1040@0.0.1536.824" timestamp="1631846798612" />
+    <state width="1275" height="268" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1631877933885" />
+    <state width="1275" height="268" key="GridCell.Tab.0.left" timestamp="1631877933885">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1275" height="268" key="GridCell.Tab.0.left/0.0.1536.824/1920.9.1920.1040@0.0.1536.824" timestamp="1631846798611" />
+    <state width="1275" height="268" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1631877933885" />
+    <state width="1275" height="268" key="GridCell.Tab.0.right" timestamp="1631877933885">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1275" height="268" key="GridCell.Tab.0.right/0.0.1536.824/1920.9.1920.1040@0.0.1536.824" timestamp="1631846798612" />
+    <state width="1275" height="268" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1631877933885" />
+    <state width="1275" height="268" key="GridCell.Tab.1.bottom" timestamp="1631877933886">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1275" height="268" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.9.1920.1040@0.0.1536.824" timestamp="1631846798612" />
+    <state width="1275" height="268" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1631877933886" />
+    <state width="1275" height="268" key="GridCell.Tab.1.center" timestamp="1631877933886">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1275" height="268" key="GridCell.Tab.1.center/0.0.1536.824/1920.9.1920.1040@0.0.1536.824" timestamp="1631846798612" />
+    <state width="1275" height="268" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1631877933886" />
+    <state width="1275" height="268" key="GridCell.Tab.1.left" timestamp="1631877933886">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1275" height="268" key="GridCell.Tab.1.left/0.0.1536.824/1920.9.1920.1040@0.0.1536.824" timestamp="1631846798612" />
+    <state width="1275" height="268" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1631877933886" />
+    <state width="1275" height="268" key="GridCell.Tab.1.right" timestamp="1631877933886">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1275" height="268" key="GridCell.Tab.1.right/0.0.1536.824/1920.9.1920.1040@0.0.1536.824" timestamp="1631846798612" />
+    <state width="1275" height="268" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1631877933886" />
+    <state width="1493" height="261" key="GridCell.Tab.2.bottom" timestamp="1631695469844">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.bottom/0.0.1536.824/1920.9.1920.1040@0.0.1536.824" timestamp="1631695469844" />
+    <state width="1493" height="261" key="GridCell.Tab.2.center" timestamp="1631695469844">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.center/0.0.1536.824/1920.9.1920.1040@0.0.1536.824" timestamp="1631695469844" />
+    <state width="1493" height="261" key="GridCell.Tab.2.left" timestamp="1631695469844">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.left/0.0.1536.824/1920.9.1920.1040@0.0.1536.824" timestamp="1631695469844" />
+    <state width="1493" height="261" key="GridCell.Tab.2.right" timestamp="1631695469844">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.right/0.0.1536.824/1920.9.1920.1040@0.0.1536.824" timestamp="1631695469844" />
+    <state x="270" y="56" key="SettingsEditor" timestamp="1631781726578">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1631781726578" />
+    <state x="2222" y="94" key="new project wizard" timestamp="1632795405522">
+      <screen x="1920" y="9" width="1920" height="1040" />
+    </state>
+    <state x="2222" y="94" key="new project wizard/0.0.1536.824/1920.9.1920.1040@0.0.1536.824" timestamp="1632795405522" />
+    <state x="178" y="95" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1631878203249" />
+    <state x="819" y="65" width="672" height="678" key="search.everywhere.popup" timestamp="1631097518129">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="819" y="65" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1631097518129" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
